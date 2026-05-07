@@ -1,0 +1,7 @@
+*.exe
+build/
+*.spec
+__pycache__/
+*.pyc
+output/
+.claude/
